@@ -1,14 +1,30 @@
 <div align="center">
 
-<!-- Dynamic Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sri+Krishna+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Builder;Hackathon+Winner+%F0%9F%8F%86+%7C+OSS+Contributor;Building+at+the+intersection+of+AI+%2B+Web" alt="Typing SVG" />
+<!-- Fun unique opener -->
+> 💬 *"Are you a compiler? Because you make everything I write run perfectly."* 🤓⚡
 
 <br/>
 
-<!-- Profile Views Badge - paste your GitHub username below -->
+<!-- Dynamic Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sri+Krishna+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Builder;Hackathon+Winner+%F0%9F%8F%86+%7C+OSS+Contributor;768+Contributions+in+the+Last+Year+%F0%9F%94%A5;Building+at+the+intersection+of+AI+%2B+Web" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=sri11223&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/sri11223?label=Followers&style=flat-square&color=00d9ff" alt="Followers" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%7C%20AI%20Roles-%2300d9ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Contributions-768%20in%202026-%2300d9ff?style=flat-square" />
+
+<br/><br/>
+
+<!-- 🔥 STREAK STATS — shown at top for max impact -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri11223&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<br/>
+
+<!-- 🌿 CONTRIBUTION GRAPH — full width, top position -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sri11223&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -141,12 +157,8 @@ const sriKrishna = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sri11223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri11223&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri11223&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sri11223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&icon_color=00d9ff&title_color=00d9ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri11223&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff" />
 
 </div>
 
